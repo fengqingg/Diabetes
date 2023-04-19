@@ -10,7 +10,7 @@ tidyr
 caret
 You can install these packages by running the following command in R:
 
-'''R
+'''
 install.packages(c("dplyr", "ggplot2", "tidyr", "caret"))
 '''
 
