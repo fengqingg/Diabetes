@@ -38,10 +38,8 @@ To run the notebook, you will need to have R and the following packages installe
   <li>tidyr</li>
   <li>caret</li>
 </ol>
-You can install these packages by running the following command in R:\
-<code>
-install.packages(c("dplyr", "ggplot2", "tidyr", "caret"))
-</code>
+You can install these packages by running the following command in R:
+<code>install.packages(c("dplyr", "ggplot2", "tidyr", "caret"))</code>
 
 # Usage
 To use the notebook, you can simply open it in Jupyter and run each cell sequentially. The notebook is divided into several sections:
