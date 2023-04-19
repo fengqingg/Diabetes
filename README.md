@@ -22,6 +22,7 @@ The features are then categorized into different degree and only the medium and 
 |  True Positive |          16         |          9         |     15     |       12       |
 | False Negative |          22         |         27         |     22     |       25       |
 |  True Negative |          29         |         24         |     29     |       26       |
+
 The final model selected is the Linear SVM model. This model is selected as the linear SVM has the lowest FN rate with the highest accuracy. FN classification will lead to undetected cases which defeats the purpose of the model to prevent future diabetes. As all the predictor variables are also quantitative, there is no categorical predictor affecting margin calculation. 
 
 # Conclusion
