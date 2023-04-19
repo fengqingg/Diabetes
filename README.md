@@ -57,4 +57,4 @@ The Pima Indians Diabetes Dataset contains information on female patients at lea
 You can find the dataset at the following link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 ## License
-The code in this repository is licensed under the MIT License. See LICENSE for more information.
+The code in this repository is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more information.
