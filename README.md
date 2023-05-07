@@ -4,8 +4,13 @@ This repository contains an R notebook (Diabetes_Classification.ipynb) that perf
 
 ## Data Insights
 To select features that are important for model prediction, NA values were dropped and multiple plots such as boxplot and barcharts were plotted of the different features. The aim is to determine if the feature are strong or weak in predicting the classification.
-![image](https://user-images.githubusercontent.com/85885666/232962814-b8edb774-e2cc-492b-9e01-1e708e99b53b.png)
-![image](https://user-images.githubusercontent.com/85885666/232963396-c50530bd-2869-4aa3-958d-58875766ed55.png)
+<p align="center">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/85885666/232962814-b8edb774-e2cc-492b-9e01-1e708e99b53b.png">
+</p>
+<p align="center">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/85885666/232963396-c50530bd-2869-4aa3-958d-58875766ed55.png">
+</p>
+
 
 The features are then categorized into different degree and only the medium and strong features are selected for classification.
 | Degree of association |                  Variables                 |
